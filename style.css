@@ -11,6 +11,9 @@
     background-color: #f1f1f1;
   }
 
+a {
+    font-size: 40px;
+
 img {
     max-width: 800px;
 }
