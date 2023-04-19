@@ -8,15 +8,14 @@
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f1f1f1;
+    background-color: #35c595;
   }
 
-a {
-    font-size: 40px;
-
-img {
-    max-width: 800px;
+.titulo {
+  padding-left: 20px;
 }
+
+
   
  
   header {
